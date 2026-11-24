@@ -1,4 +1,4 @@
-<img width="3024" height="3024" alt="IMG_4334" src="https://github.com/user-attachments/assets/da50734d-2c94-43ef-99b6-c789df9afbb4" /># CMP Pogo
+# CMP Pogo
 
 **3D-printable pogo-pin jig for NVIDIA CMP 170HX voltage-glitching experiments.**
 
