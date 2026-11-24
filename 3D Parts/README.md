@@ -1,4 +1,4 @@
-# CMP Pogo — STL Files
+# CMP Pogo — 3D Parts
 
 The final printable STL models have not been uploaded yet.
 

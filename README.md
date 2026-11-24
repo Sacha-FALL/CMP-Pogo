@@ -28,7 +28,7 @@ The project uses three 3D-printed components:
 
  <a href="#download-stl-files"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
  
-**STL downloads are not available yet.** The final files will be placed in the [STL directory](STL/) once uploaded.
+**STL downloads are not available yet.** The final files will be placed in the [3D Parts directory](3D%20Parts/) once uploaded.
 
 The original CMP Pogo designs (`Base.stl` and `Wase.stl`) are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE).
 
