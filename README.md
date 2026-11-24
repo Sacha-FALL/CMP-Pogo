@@ -53,7 +53,7 @@ CMP Pogo is a *mechanical positioning aid*, not an automatic GPU-unlocking devic
 
 Found a possible improvement? Please [open an issue](../../issues) first to explain your suggestion. Pull requests can be considered under the limited contribution permission and rights-grant process described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**Copyright © 2026 Sacha-FALL.** Unless otherwise stated, the project’s original STL designs and documentation are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](LICENSE).
+**Copyright © 2026 CMP Pogo.** Unless otherwise stated, the project’s original STL designs and documentation are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](LICENSE).
 
 The license does **not** grant commercial rights or the right to publicly distribute adapted STL designs. Permission for commercial uses or distribution of modified versions must be requested separately from the project owner. Any special permission to submit a contribution is limited to that submission process.
 

@@ -15,7 +15,7 @@ The maintainer may review, request revisions, accept, or decline any contributio
 
 ## Limited permission for contribution submissions
 
-To the extent that the project owner has the relevant rights, **Sacha-FALL expressly permits the sharing of modified CMP Pogo project files only as reasonably necessary to propose those modifications to the official CMP Pogo repository through a GitHub pull request** (including the technical steps necessary to create that pull request).
+For these terms, the project owner means the holder of the rights in the original CMP Pogo designs. To the extent that the project owner has the relevant rights, **the project owner expressly permits the sharing of modified CMP Pogo project files only as reasonably necessary to propose those modifications to the official CMP Pogo repository through a GitHub pull request** (including the technical steps necessary to create that pull request).
 
 This is a limited, noncommercial permission for the contribution workflow. It does **not** permit a contributor to market, sell, or otherwise commercially exploit the project files, or to distribute modified files as a separately maintained product, release, or project. The CC BY-NC-ND license continues to apply outside this narrow exception.
 
@@ -27,10 +27,10 @@ By submitting a pull request that contains an original contribution, you confirm
 
 - You have the necessary rights to submit your work and grant the permissions described here.
 - Your contribution does not knowingly include material that conflicts with these terms or infringes third-party rights.
-- You grant **Sacha-FALL** a **worldwide, perpetual, irrevocable, non-exclusive, royalty-free license** to use, reproduce, modify, adapt, distribute, publicly display, manufacture products from, sell, commercially exploit, and sublicense or relicense your contribution, including as part of CMP Pogo and future versions.
+- You grant **the project owner** a **worldwide, perpetual, irrevocable, non-exclusive, royalty-free license** to use, reproduce, modify, adapt, distribute, publicly display, manufacture products from, sell, commercially exploit, and sublicense or relicense your contribution, including as part of CMP Pogo and future versions.
 - You understand that your contribution may be incorporated into paid physical CMP Pogo kits without additional payment to you, while attribution will be retained where reasonably practicable.
 
-You retain ownership of your original contributions. The rights grant to Sacha-FALL does **not** itself grant other users permission to redistribute modified versions of the original CMP Pogo designs.
+You retain ownership of your original contributions. The rights grant to the project owner does **not** itself grant other users permission to redistribute modified versions of the original CMP Pogo designs.
 
 For contributions made by multiple authors, each person must have permission to submit the relevant material under these terms. If these permissions are not acceptable, please describe the idea in an issue instead of submitting the modified model.
 
