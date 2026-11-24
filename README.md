@@ -3,12 +3,14 @@
 **3D-printable pogo-pin jig for NVIDIA CMP 170HX voltage-glitching experiments.**
 
 CMP Pogo is a 3D-printable fixture designed to help align and hold pogo-pin contacts on the NVIDIA CMP 170HX, with a separate bracket for a Raspberry Pi Pico controller. It is intended for electronics enthusiasts and hardware researchers working on their own equipment.
-<p align="center">
 <img width="3024" height="3024" alt="cmp-pogo-unwired" src="https://github.com/user-attachments/assets/d5d4cffa-dc40-4912-9551-40930ed3ccd3" />
 <img width="3024" height="3024" alt="cmp-pogo-wired" src="https://github.com/user-attachments/assets/7d793c7b-9538-49bf-9fa9-58f8905e9ada" />
 <img width="3024" height="3024" alt="cmp-pogo-installed" src="https://github.com/user-attachments/assets/1a554700-2756-43ab-afba-409479d45383" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5d4cffa-dc40-4912-9551-40930ed3ccd3" width="32%" alt="CMP Pogo - Unwired">
+  <img src="https://github.com/user-attachments/assets/7d793c7b-9538-49bf-9fa9-58f8905e9ada" width="32%" alt="CMP Pogo - Wired">
+  <img src="https://github.com/user-attachments/assets/1a554700-2756-43ab-afba-409479d45383" width="32%" alt="CMP Pogo - Installed">
 </p>
-
 > **Project status:** Initial documentation. The printable STL files and detailed assembly guide will be added separately. The kit is supplied unassembled.
 
 ## Download STL Files
