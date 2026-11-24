@@ -2,9 +2,9 @@
 
 Thank you for your interest in improving CMP Pogo.
 
-This project makes its original STL files available under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. That license permits private noncommercial adaptations but **does not generally permit public sharing of modified versions**. Please read the specific contribution exception below before uploading any adapted STL file containing CMP Pogo’s own CC BY-NC-ND material.
+This project makes its original STL designs (`Base.stl` and `Wase.stl`) available under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. That license permits private noncommercial adaptations but **does not generally permit public sharing of modified versions**. Please read the specific contribution exception below before uploading any adapted STL file covered by that license.
 
-`Case.stl` incorporates the [Raspberry Pi Pico Case](https://www.printables.com/model/143745-raspberry-pi-pico-case) by GrevTech, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The contribution rules and restrictions in this document apply only to CMP Pogo’s own protected material or to voluntary submissions to this repository; they do not limit the original CC BY 4.0 rights. See the [license and attribution](README.md#license-and-attribution).
+The licensing restrictions below apply only to CC BY-NC-ND material; see the [README](README.md#download-stl-files) for `Case.stl` attribution.
 
 ## How to suggest an improvement
 
@@ -17,9 +17,9 @@ The maintainer may review, request revisions, accept, or decline any contributio
 
 ## Limited permission for contribution submissions
 
-For these terms, the project owner means the holder of the rights in the original CMP Pogo designs. To the extent that the project owner has the relevant rights, **the project owner expressly permits the sharing of modified CMP Pogo files containing its own CC BY-NC-ND material only as reasonably necessary to propose those modifications to the official CMP Pogo repository through a GitHub pull request** (including the technical steps necessary to create that pull request).
+For these terms, the project owner means the holder of the rights in the original CMP Pogo designs. To the extent that the project owner has the relevant rights, **the project owner expressly permits the sharing of modified CC BY-NC-ND project files only as reasonably necessary to propose those modifications to the official CMP Pogo repository through a GitHub pull request** (including the technical steps necessary to create that pull request).
 
-This is a limited, noncommercial permission for the contribution workflow. It does **not** permit a contributor to market, sell, or otherwise commercially exploit CMP Pogo’s own CC BY-NC-ND material, or to distribute modified versions of that material as a separately maintained product, release, or project. The CC BY-NC-ND license continues to apply outside this narrow exception.
+This is a limited, noncommercial permission for the contribution workflow. It does **not** permit a contributor to market, sell, or otherwise commercially exploit the CC BY-NC-ND project files, or to distribute modified versions of those files as a separately maintained product, release, or project. The CC BY-NC-ND license continues to apply outside this narrow exception.
 
 If you do not agree to the contribution terms below, please use an **issue containing a description only**, rather than submitting modified STL files.
 
@@ -43,10 +43,10 @@ Please confirm in your pull request that:
 - [ ] The change and its motivation are described.
 - [ ] I have the rights needed to submit this contribution.
 - [ ] I have read and agree to the **Contributor rights grant** above.
-- [ ] I understand that submitting a modified file containing CMP Pogo’s own CC BY-NC-ND material is permitted only as part of the official contribution workflow.
+- [ ] I understand that submitting a modified CC BY-NC-ND project file is permitted only as part of the official contribution workflow.
 
 ## Review and official releases
 
-Only the project maintainer decides which changes become official. Any accepted improvements may be released as part of the original project under the applicable license, subject to third-party rights, while the maintainer retains the separate commercial permissions granted above.
+Only the project maintainer decides which changes become official. Any accepted improvements may be released as part of the original project under the project license, while the maintainer retains the separate commercial permissions granted above.
 
 These terms govern voluntary contributions. They are not a substitute for a separately signed agreement when one is legally required. The project owner should obtain legal review of these terms before accepting substantive third-party contributions.
