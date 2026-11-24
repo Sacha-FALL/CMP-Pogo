@@ -4,6 +4,11 @@
 
 CMP Pogo is a 3D-printable fixture designed to help align and hold pogo-pin contacts on the NVIDIA CMP 170HX, with a separate bracket for a Raspberry Pi Pico controller. It is intended for electronics enthusiasts and hardware researchers working on their own equipment.
 <p align="center">
+  <a href="#download-stl-files"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
+  <a href="https://www.paypal.com/ncp/payment/VH5EUH9KT26WW"><img src="https://img.shields.io/badge/Buy_the_Kit-003087?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDNoM2wzIDEzaDEybDItMTBINiIvPjxjaXJjbGUgY3g9IjkiIGN5PSIyMSIgcj0iMSIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMjEiIHI9IjEiLz48L3N2Zz4%3D" alt="Buy the CMP Pogo kit"></a>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/d5d4cffa-dc40-4912-9551-40930ed3ccd3" width="32%" alt="CMP Pogo - Unwired">
   <img src="https://github.com/user-attachments/assets/7d793c7b-9538-49bf-9fa9-58f8905e9ada" width="32%" alt="CMP Pogo - Wired">
   <img src="https://github.com/user-attachments/assets/1a554700-2756-43ab-afba-409479d45383" width="32%" alt="CMP Pogo - Installed">
@@ -29,7 +34,7 @@ These models are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 l
 
 If you would rather receive the 3D-printed parts and accessories together, a physical CMP Pogo kit is available to order:
 
-**[Buy the CMP Pogo Kit on PayPal](https://www.paypal.com/ncp/payment/VH5EUH9KT26WW)**
+[![Buy the CMP Pogo Kit on PayPal](https://img.shields.io/badge/PayPal-Buy_the_Kit-003087?style=for-the-badge&logo=paypal&logoColor=white&labelColor=005EA6)](https://www.paypal.com/ncp/payment/VH5EUH9KT26WW)
 
 The physical kit includes:
 
