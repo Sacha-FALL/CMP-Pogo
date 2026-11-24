@@ -19,9 +19,9 @@ The project uses three 3D-printed components:
 | --- | --- |
 | `Base.stl` | Main holder that positions the pogo pins over the GPU contact points. |
 | `Case.stl` | Mounting bracket for the Raspberry Pi Pico. |
-| `Wase.stl` | Spacer that slightly raises the Base above the GPU; the physical kit includes eight of these spacers. |
+| `Wase.stl` | Spacer that slightly raises the Base above the GPU. |
 
-**STL downloads are not available yet.** The final files will be placed in the [STL directory](STL/) once uploaded. Please do not use screenshots or recreated models as printable substitutes.
+**STL downloads are not available yet.** The final files will be placed in the [STL directory](STL/) once uploaded.
 
 These models are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE). You may print copies for your own noncommercial use, but commercial use and public distribution of modified models are not licensed. See [License](#contributing--license) for details.
 
@@ -36,17 +36,15 @@ The physical kit includes:
 - 1× **Base** — main pogo-pin holder
 - 1× **Case** — Raspberry Pi Pico mounting bracket
 - 8× **Wase** — support spacers
-- 10× **female-to-female Dupont jumper wires** (10 cm): 5 with pogo pins pre-inserted and 5 without pogo pins
+- 10× **Dupont jumper wires** (10 cm): 5 with pogo pins pre-inserted and 5 without pogo pins
 - 5× **additional loose pogo pins**
 - 4× **M2.5 × 16 mm Torx T8 screws**
 
-The Raspberry Pi Pico and the NVIDIA CMP 170HX GPU are **not included**. The kit is supplied **unassembled**. Consult the PayPal checkout for the current price and ordering details.
+Consult the PayPal checkout for the current price and ordering details.
 
 ## How It Works
 
 The **Base** holds and guides pogo pins so they can make contact with selected points on the CMP 170HX PCB. **Wase** spacers sit between the Base and GPU to provide clearance; the screws secure the fixture. The separate **Case** is designed to hold the Raspberry Pi Pico controller. **Dupont jumper wires** provide the connections between the contacts and the controller.
-
-CMP Pogo is a *mechanical positioning aid*, not an automatic GPU-unlocking device. Successful experiments depend on the user's setup and procedure; no particular result is guaranteed.
 
 > **Hardware safety:** Incorrect contact placement, wiring, or use can damage equipment. Verify the fit, electrical connections, and applicable documentation before use.
 
@@ -61,5 +59,3 @@ Found a possible improvement? Please [open an issue](../../issues) first to expl
 Unless otherwise stated, the project’s original STL designs and documentation are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](LICENSE).
 
 The license does **not** grant commercial rights or the right to publicly distribute adapted STL designs. Permission for commercial uses or distribution of modified versions must be requested separately from the project owner. Any special permission to submit a contribution is limited to that submission process.
-
-*This project is independent and is not affiliated with or endorsed by NVIDIA, Raspberry Pi, or any other hardware manufacturer.*
