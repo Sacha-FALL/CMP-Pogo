@@ -27,6 +27,7 @@ The project uses three 3D-printed components:
 | `Wase.stl` | Spacer that slightly raises the Base above the GPU. |
 
  <a href="#download-stl-files"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
+ 
 **STL downloads are not available yet.** The final files will be placed in the [STL directory](STL/) once uploaded.
 
 These models are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE). You may print copies for your own noncommercial use, but commercial use and public distribution of modified models are not licensed. See [License](#contributing--license) for details.
