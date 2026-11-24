@@ -9,7 +9,7 @@ CMP Pogo is a 3D-printable fixture designed to help align and hold pogo-pin cont
   <img src="https://github.com/user-attachments/assets/1a554700-2756-43ab-afba-409479d45383" width="32%" alt="CMP Pogo - Installed">
 </p>
 
-> **Project status:** Initial documentation. The printable STL files and detailed assembly guide will be added separately. The kit is supplied unassembled.
+> **Project status:** Initial documentation. The printable STL files are available. Detailed assembly guide will be added later.
 
 ## Download STL Files
 
