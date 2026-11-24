@@ -30,7 +30,7 @@ The project uses three 3D-printed components:
  
 **STL downloads are not available yet.** The final files will be placed in the [STL directory](STL/) once uploaded.
 
-These models are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE). You may print copies for your own noncommercial use, but commercial use and public distribution of modified models are not licensed. See [License](#contributing--license) for details.
+The original CMP Pogo designs (`Base.stl` and `Wase.stl`) are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE). `Case.stl` incorporates a third-party design with separate licensing terms; see [License and attribution](#license-and-attribution).
 
 ## Get the Physical Kit
 
@@ -63,6 +63,10 @@ The **Base** holds and guides pogo pins so they can make contact with selected p
 
 Found a possible improvement? Please [open an issue](../../issues) first to explain your suggestion. Pull requests can be considered under the limited contribution permission and rights-grant process described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Unless otherwise stated, the project’s original STL designs and documentation are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](LICENSE).
+### License and attribution
 
-The license does **not** grant commercial rights or the right to publicly distribute adapted STL designs. Permission for commercial uses or distribution of modified versions must be requested separately from the project owner. Any special permission to submit a contribution is limited to that submission process.
+The original CMP Pogo designs (`Base.stl` and `Wase.stl`) and original documentation are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [LICENSE](LICENSE).
+
+`Case.stl` is a modified adaptation of [Raspberry Pi Pico Case](https://www.printables.com/model/143745-raspberry-pi-pico-case) by **GrevTech**, originally licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). It has been adapted for integration with the CMP Pogo fixture. The original design remains under CC BY 4.0; the project’s CC BY-NC-ND 4.0 license applies only to CMP Pogo’s own copyrightable contributions, including its original modifications to the extent they are protected. Nothing in the project license restricts the rights granted by the original CC BY 4.0 license.
+
+Commercial use and public distribution of adaptations of CMP Pogo’s own CC BY-NC-ND material require separate permission from its rights holder. This does not limit rights in the original third-party design. Any special permission to submit a contribution is limited to that submission process.
