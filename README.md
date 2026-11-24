@@ -4,7 +4,7 @@
 
 CMP Pogo is a 3D-printable fixture designed to help align and hold pogo-pin contacts on the NVIDIA CMP 170HX, with a separate bracket for a Raspberry Pi Pico controller. It is intended for electronics enthusiasts and hardware researchers working on their own equipment.
 <p align="center">
-  <a href="#download-stl-files"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
+  <a href="https://github.com/Sacha-FALL/CMP-Pogo/releases/latest/download/Zipped-3D-Parts.zip"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
   <a href="https://www.paypal.com/ncp/payment/VH5EUH9KT26WW"><img src="https://img.shields.io/badge/Buy_the_Kit-003087?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDNoM2wzIDEzaDEybDItMTBINiIvPjxjaXJjbGUgY3g9IjkiIGN5PSIyMSIgcj0iMSIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMjEiIHI9IjEiLz48L3N2Zz4%3D" alt="Buy the CMP Pogo kit"></a>
 </p>
 
@@ -26,9 +26,9 @@ The project uses three 3D-printed components:
 | `Case.stl` | Mounting bracket for the Raspberry Pi Pico. |
 | `Wase.stl` | Spacer that slightly raises the Base above the GPU. |
 
- <a href="#download-stl-files"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
+ <a href="https://github.com/Sacha-FALL/CMP-Pogo/releases/latest/download/Zipped-3D-Parts.zip"><img src="https://img.shields.io/badge/Download_STL-238636?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzdjEybS01LTUgNSA1IDUtNU00IDE2djRoMTZ2LTQiLz48L3N2Zz4%3D" alt="Download STL files"></a>
  
-**STL downloads are not available yet.** The final files will be placed in the [3D Parts directory](3D%20Parts/) once uploaded.
+
 
 The original CMP Pogo designs (`Base.stl` and `Wase.stl`) are provided for **noncommercial use** under the [CC BY-NC-ND 4.0 license](LICENSE).
 
